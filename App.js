@@ -117,8 +117,8 @@ const styles = StyleSheet.create({
     backgroundColor: 'white',
     alignItems: 'center',
     justifyContent: 'center',
-    minWidth: 90, 
-    minHeight: 90,
+    minWidth: 130, 
+    minHeight: 130,
     flex: 2,
   },
   textButton: {
